@@ -94,3 +94,4 @@
 - 视频
   - [算法设计与分析期末](https://www.bilibili.com/video/BV1X3411u7xW)
   - [【算法设计与分析】期末考试突击课](https://www.bilibili.com/video/BV1hc41137go)
+  - [算法设计与分析MOOC-青岛大学-张公敬教授](https://space.bilibili.com/2065111657/channel/collectiondetail?sid=1199193)
