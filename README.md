@@ -93,3 +93,4 @@
   - 《算法导论》，Thomas H.Cormen
 - 视频
   - [算法设计与分析期末](https://www.bilibili.com/video/BV1X3411u7xW)
+  - [【算法设计与分析】期末考试突击课](https://www.bilibili.com/video/BV1hc41137go)
