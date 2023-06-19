@@ -123,6 +123,8 @@ Ref: 高数帮
 
 ![image-20230619130426581](.README.assets/image-20230619130426581.png)
 
+![image-20230619131207904](.README.assets/image-20230619131207904.png)
+
 ## 线性规划
 
 
