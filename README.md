@@ -107,7 +107,7 @@ Ref: 高数帮
 
 ![image-20230619114405882](.README.assets/image-20230619114405882.png)
 
-## 回溯与分支限界
+## 回溯
 
 ![image-20230619114919230](.README.assets/image-20230619114919230.png)
 
@@ -118,6 +118,10 @@ Ref: 高数帮
 ![image-20230619121607152](.README.assets/image-20230619121607152.png)
 
 ![image-20230619121627786](.README.assets/image-20230619121627786.png)
+
+## 分支限界
+
+![image-20230619130426581](.README.assets/image-20230619130426581.png)
 
 ## 线性规划
 
